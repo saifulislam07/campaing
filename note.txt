@@ -1,0 +1,33 @@
+Note :
+
+check the database in root db folder
+
+
+message code :
+app/console/commands
+
+schedule:
+app/console/kernel
+
+cron
+/usr/local/bin/php /home/beambd/campaign.beambd.com/artisan schedule:run &>/dev/null
+
+
+/register for user (default)
+/login for login
+
+admin can change user to admin from user list
+
+credential
+
+admin :
+--------------
+saiful.rana@gmail.com
+11111111
+
+
+user :
+-----------
+jamal@gmail.com
+11111111
+
